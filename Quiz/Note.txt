@@ -1,0 +1,11 @@
+Explanation: 
+0.7 is double constant (Default). Its binary value is written in 64 bit.
+
+Binary value of 0.7 = (0.1011 0011 0011 0011 0011 0011 0011 0011 0011 0011 0011 )
+
+	Now here variable a is a floating point variable while 0.7 is double constant. So variable a will contain only 32 bit value i.e.
+
+	a = 0.1011 0011 0011 0011 0011 0011 0011 0011 while
+	0.7 = 0.1011 0011 0011 0011 0011 0011 0011 0011 0011 0011 0011....
+	It is obvious a < 0.7
+

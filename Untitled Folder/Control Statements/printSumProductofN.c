@@ -1,0 +1,1 @@
+/* using one loop both product and sum*/
